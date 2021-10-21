@@ -1,6 +1,7 @@
 # farmersworld-bot
 A tool for [farmersworld](https://play.farmersworld.io/)
 
+
 ## Setup
 1. Install nodejs latest version download
 [here](https://nodejs.org/en/download/current/)
